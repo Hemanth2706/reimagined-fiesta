@@ -1,0 +1,1 @@
+The uploaded files are the code=ing files of my project bookscrape explorer where i need to generate a python code to connect to the google api and extract the books of different topics and store them in a SQL database.
